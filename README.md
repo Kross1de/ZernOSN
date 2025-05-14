@@ -1,0 +1,2 @@
+# ZernOSN
+Переписываю ZernOS
